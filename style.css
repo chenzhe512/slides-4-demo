@@ -7,7 +7,6 @@
 }
 body{
     background: #E5E3E0;
-    border: 1px solid red;
 }
 .window{
     width: 900px;
@@ -22,7 +21,6 @@ body{
     transition: all 1s;
 }
 .container{
-    border: 1px solid black;
 }
 .container > h1{
     font-family: YOUYUAN;
